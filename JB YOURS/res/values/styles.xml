@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorButtonNormal">@color/pink</item>
+        <item name="colorControlNormal">@color/blue</item>
+        <item name="colorControlActivated">@color/pinksun</item>
+    </style>
+</resources>
